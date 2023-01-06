@@ -4,4 +4,4 @@
     )
 }}
 
-select * from orders
+select * from globalmart.orders

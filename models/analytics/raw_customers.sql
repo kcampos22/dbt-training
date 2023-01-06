@@ -4,4 +4,4 @@
     )
 }}
 
-select * from customers
+select * from globalmart.customers
