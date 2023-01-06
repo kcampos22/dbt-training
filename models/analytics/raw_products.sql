@@ -4,4 +4,4 @@
     )
 }}
 
-select * from globalmart.products
+select * from products
